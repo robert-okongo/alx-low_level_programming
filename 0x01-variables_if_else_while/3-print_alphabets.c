@@ -10,12 +10,12 @@ int main(void)
 	char lowerLetter = 'a';
 
 	char upperLetter = 'A';
-	while
-		(lowerLetter <= 'z') {
+	 while
+	        (lowerLetter <= 'z') {
 			putchar(lowerLetter);
 			lowerLetter++;
 		}
-	while
+	 while
 		(upperLetter <= 'Z') {
 			putchar(upperLetter);
 			upperLetter++;
